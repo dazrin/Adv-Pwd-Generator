@@ -13,7 +13,7 @@
 This is a random password generator application made using HTML, CSS and Javascript.
 This application uses lowercase, uppercase, numbers and symbols to randomly generate a password from 8 to 128 characters depending on the user's input.
   You can launch the application by clicking [here.](https://dazrin.github.io/Adv-Pwd-Generator/)
-  Website URL: https://dazrin.github.io/Adv-Pwd-Generator/
+> Website URL: https://dazrin.github.io/Adv-Pwd-Generator/
   
 ## Instructions
 1. Using the slider or the number input, you may choose how long your password will be (will take a number from 8-128)
